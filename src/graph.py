@@ -4,7 +4,7 @@ copyright MIT License
 
 graph.py
 
-Purpose: generate a clean looking graph for some information
+Purpose: generate a clean looking graph
 '''
 
 from matplotlib import pyplot
